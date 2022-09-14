@@ -17,7 +17,7 @@
 <h2>:baby_chick:Sub Tech Stack:baby_chick:</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=SCSS&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=SCSS&logoColor=white">
 </div>
 <h2>:hatching_chick:Studying:hatching_chick:</h2>
 <div align = left>
