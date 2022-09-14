@@ -1,4 +1,5 @@
-### Hi there 👋 I am Kwon kanbin
+![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
+
 ![Profile views](https://gpvc.arturio.dev/kwonkangbin)
 
 ![kwonkangbin's github stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&show_icons=true)
