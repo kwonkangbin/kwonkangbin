@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=KWON KANGBIN&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=KWON_KANGBIN&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
 ![Profile views](https://gpvc.arturio.dev/kwonkangbin)
 
