@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8df3fc&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=kwonkangbin's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 
 <h1>:sparkles:권강빈(kwon_kangbin):sparkles:</h2>
-### :사업가가 되고 싶은 학생입니다.
+![Profile views](https://gpvc.arturio.dev/kwonkangbin)
+사업가가 되고 싶은 학생입니다.
 
 <h2>SNS</h2>
 <div align = left>
