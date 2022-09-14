@@ -30,7 +30,7 @@
 
 <h2>License</h2>
 <div align = left>
-<img src="https://img.shields.io/badge/azure-900-0078D7?style=for-the-badge&logo=azure-900&logoColor=white">
+<img src="https://img.shields.io/badge/azure-900-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
 </div>
 
 <h1>My Stats</h1>
