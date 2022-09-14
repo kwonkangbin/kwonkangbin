@@ -10,4 +10,5 @@
 <img alt="Gmail" src 
 ="https://img.shields.io/badge/kbk282655@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
-<a href="https://www.instagram.com/vin060331/" target="_blank">
+</a>  <a href="https://www.instagram.com/vin060331/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
