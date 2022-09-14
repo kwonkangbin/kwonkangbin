@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
-<h2>:license:</h2>
+<h2>License</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/azure-900-0078D7?style=for-the-badge&logo=azure-900&logoColor=white">
 </div>
