@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${Waving}&color=auto&height=${20px}&section=header&text=${HELLO}&fontSize=${19}&animation=$)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=20px&section=header&text=HELLO&fontSize=19&animation=)
 
 ![Profile views](https://gpvc.arturio.dev/kwonkangbin)
 
