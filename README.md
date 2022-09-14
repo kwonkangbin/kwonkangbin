@@ -2,12 +2,13 @@
 
 <h1>:sparkles:권강빈(kwon_kangbin):sparkles:</h2>
 ![Profile views](https://gpvc.arturio.dev/kwonkangbin)
-사업가가 되고 싶은 학생입니다.
 
-<h2>SNS</h2>
+<h2>SNS&e-mail</h2>
 <div align = left>
 <a href="https://www.instagram.com/vin060331/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
+<img alt="Gmail" src 
+="https://img.shields.io/badge/kbk282655@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 <h2>:computer:Main Tech Stack:computer:</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
@@ -30,18 +31,7 @@
 
 <h1>My Stats</h1>
 
-[![HyunMin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
+[![kwonkangbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonkangbin&layout=compact&theme=gruvbox)](https://github.com/HyunMin200/github-readme-stats)
-
-
-
-
-![kwonkangbin's github stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonkangbin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kbk282655)](https://velog.io/@kbk282655)
-
-<img alt="Gmail" src 
-="https://img.shields.io/badge/kbk282655@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
