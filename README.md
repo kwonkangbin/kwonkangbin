@@ -19,13 +19,18 @@
 <div align = left>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 </div>
 <h2>:hatching_chick:Studying:hatching_chick:</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</div>
 
+<h2>:license:</h2>
+<div align = left>
+<img src="https://img.shields.io/badge/azure-900-0078D7?style=for-the-badge&logo=azure-900&logoColor=white">
 </div>
 
 <h1>My Stats</h1>
