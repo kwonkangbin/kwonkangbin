@@ -2,7 +2,7 @@
 
 <h1>:sparkles:권강빈(kwon_kangbin):sparkles:</h2>
 
-<h2>SNS&e-mail</h2>
+<h2>SNS & e-mail</h2>
 <div align = left>
 <a href="https://www.instagram.com/vin060331/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
