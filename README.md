@@ -9,6 +9,7 @@
 <img alt="Gmail" src 
 ="https://img.shields.io/badge/kbk282655@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 <h2>:computer:Main Tech Stack:computer:</h2>
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog5&logoColor=white">
 <div align = left>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
