@@ -9,7 +9,7 @@
 <a href="https://velog.io/@kbk282655" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog5&logoColor=white"></a>
 
 </div>
-<h2>:computer:Main Tech Stack:computer:</h2>
+<h2>:computer:Main Tech Stack:computer:</h2> 
 <div align = left>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
