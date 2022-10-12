@@ -30,14 +30,15 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-<h2>License</h2>
+<h2>Certificate</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Azure900-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
+SQLD
 </div>
 
 <h1>My Stats</h1>
 
-[![kwonkangbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
+[![kwonkangbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&theme=calm)](https://github.com/kwonkangbin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonkangbin&layout=compact&theme=gruvbox)](https://github.com/HyunMin200/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonkangbin&layout=compact&theme=gruvbox)](https://github.com/kwonkangbin/github-readme-stats)
 
