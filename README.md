@@ -33,7 +33,7 @@
 <h2>Certificate</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Azure900-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
-<h4>SQLD</h4>
+<b>SQLD</b>
 </div>
 
 <h1>My Stats</h1>
