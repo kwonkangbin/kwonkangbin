@@ -36,7 +36,7 @@
 <b style="font-size:45px;">SQLD</b>
 </div>
 
-<h2>My Stats</h2>
+##My Stats
 
 [![kwonkangbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&theme=calm)](https://github.com/kwonkangbin/github-readme-stats)
 
