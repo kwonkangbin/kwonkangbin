@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8df3fc&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=kwonkangbin's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 
 <h1>:sparkles:권강빈(kwon_kangbin):sparkles:</h2>
-<h3>풀스택 개발자가 꿈인 고1입니다!!</h3>
+<h3>풀스택 개발자가 꿈인 예비 고2입니다!!</h3>
 <h2>SNS & e-mail</h2>
 <div align = left>
 <a href="https://www.instagram.com/vin060331/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
