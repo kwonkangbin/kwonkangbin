@@ -30,7 +30,7 @@
 <div width="100%" height="10px"></div>
 <div align="center">  
 
-## My State
+<h2> My State</h2>
 
 [![kwonkangbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonkangbin&theme=calm)](https://github.com/kwonkangbin/github-readme-stats)
 
