@@ -1,5 +1,5 @@
 <div align="center">  
- <h2>권강빈(KWON KANGBIN)</h2>
+ <h2>권강빈(kwon kangbin)</h2>
 <a href="https://www.instagram.com/vin060331/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@kbk282655"><img src="https://img.shields.io/badge/kwonkangbin-20c997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
