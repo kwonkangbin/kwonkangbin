@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-275f85?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
